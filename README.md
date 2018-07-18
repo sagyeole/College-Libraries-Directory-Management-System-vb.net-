@@ -5,7 +5,7 @@ This application is very useful to keep record and enhance library services all 
 The application is consist of total eight forms plus login form and Main form.
 The attributes of dataset are divided into eight forms. Application is connected to SQL SERVER database by creating database in SQL SERVER.
 
-###Pages as below:
+##Pages as below:
 -Login Page
 -Main Form
 -College_Details
@@ -18,7 +18,7 @@ The attributes of dataset are divided into eight forms. Application is connected
 -Librarian_Details_2
 -Database_backup
 
-###Functionality:
+##Functionality:
 Various functionalities added to models. Like saving information to database, delete from database, update to database, Reset, Grid view to see stored database, search option  textbox which search information from database and show in data grid view, Next button to visit next form, exit button to exit. This all functionalities help in creating proper management of libraries and librarians details.
 
 All the output screenshoots and layout are shown in CLDMSpowerpoint.pptx file.
